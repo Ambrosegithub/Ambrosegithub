@@ -1,5 +1,7 @@
 ### Hi there 👋
-I am Ambrose Isigba, a software developer.
+I am Ambrose Isigba, a software developer. <br>
+
+
 const aboutAmbroseIsigba = {
 Nationality: 'Delta Nigeria',
 Residence: 'Veneto Italy',
