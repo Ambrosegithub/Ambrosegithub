@@ -2,7 +2,7 @@
 I am Ambrose Isigba, a software developer. <br>
 
 
-const aboutAmbroseIsigba = {
+const aboutAmbroseIsigba = { <br>
 Nationality: 'Delta Nigeria',
 Residence: 'Veneto Italy',
 I’mCurrentlyWorkingOn 🔭: ['TodoListApp', 'UnitTesting', 'API']
