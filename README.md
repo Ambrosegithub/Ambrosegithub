@@ -3,8 +3,8 @@ I am Ambrose Isigba, a software developer. <br>
 
 
 const aboutAmbroseIsigba = { <br>
-Nationality: 'Delta Nigeria', <br>
-Residence: 'Veneto Italy', <br>
+Nationality: 'Delta, Nigeria', <br>
+Residence: 'Veneto, Italy', <br>
 I’mCurrentlyWorkingOn 🔭: ['TodoListApp', 'UnitTesting', 'API'] <br>
 I’mCurrentlyLearning  🌱: ['javascript', 'Bootstrap', 'React'], <br>
 I’mLookingToCollaborateOn 👯: 'Any open source code on github', <br>
