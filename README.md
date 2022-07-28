@@ -6,7 +6,7 @@ const aboutAmbroseIsigba = { <br>
 Nationality: 'Delta, Nigeria', <br>
 Residence: 'Veneto, Italy', <br>
 I’mCurrentlyWorkingOn 🔭: ['TodoListApp', 'UnitTesting', 'API'] <br>
-I’mCurrentlyLearning  🌱: ['javaScript', 'Bootstrap', 'React'], <br>
+I’mCurrentlyLearning  🌱: ['JavaScript', 'Bootstrap', 'React'], <br>
 I’mLookingToCollaborateOn 👯: 'Any open source code on github', <br>
 I’m looking for help with 🤔: 'React Js', <br>
 AskMeAbout 💬: 'Promises on Js', <br>
