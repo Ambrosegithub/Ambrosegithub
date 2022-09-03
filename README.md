@@ -19,3 +19,14 @@ hasDegree: true, <br>
 highestEducationalProfile: 'HND in Environmental Health Technology', <br>
 isHeReadyForNewOppurtunties: true <br>
 }
+
+
+# 📊GitHub Stats :
+
+![](https://github-readme-stats.vercel.app/api?username=Ambrosegithub&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ambrosegithub&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambrosegithub&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## Contribution graph
+
+[![Ambrose's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ambrosegithub&theme=dracula)](https://github.com/Ambrosegithub/github-readme-activity-graph)
