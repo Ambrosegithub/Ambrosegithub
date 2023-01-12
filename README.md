@@ -1,4 +1,4 @@
-CONST myProfile = (args*) => {
+const myProfile = () => {
 return `${
 ### Hi there 👋
 I am Ambrose Isigba, a software developer. <br>
