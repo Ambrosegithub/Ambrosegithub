@@ -23,8 +23,8 @@ hasDegree: true, <br>
 highestEducationalProfile: 'HND in Environmental Health Technology', <br>
 isHeReadyForNewOppurtunties: true <br>
 }
-}`
-}
+}` <br />
+} <br />
 myProfile()
 
 # 💻Tech Stack
