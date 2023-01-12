@@ -1,10 +1,12 @@
 const myProfile = () => {
 return `${
 ### Hi there 👋
-I am Ambrose Isigba, a software developer. <br>
+
 
 
 const aboutAmbroseIsigba = { <br>
+name = Ambrose Isigba <br>
+profession = software developer. <br>
 Nationality: 'Delta, Nigeria', <br>
 Residence: 'Veneto, Italy', <br>
 I’mCurrentlyWorkingOn 🔭: ['TodoListApp', 'UnitTesting', 'API'] <br>
