@@ -1,4 +1,4 @@
-(const myProfile = () => {
+const myProfile = () => {
 return `${
 ### Hi there 👋
 I am Ambrose Isigba, a software developer. <br>
@@ -25,7 +25,7 @@ isHeReadyForNewOppurtunties: true <br>
 }
 }` <br />
 } <br />
-myProfile())
+myProfile()
 
 # 💻Tech Stack
 <h2 align="center">
