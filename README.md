@@ -1,5 +1,5 @@
-CONST myProfile = () => {
-return ${
+CONST myProfile = (args*) => {
+return `${
 ### Hi there 👋
 I am Ambrose Isigba, a software developer. <br>
 
@@ -23,7 +23,7 @@ hasDegree: true, <br>
 highestEducationalProfile: 'HND in Environmental Health Technology', <br>
 isHeReadyForNewOppurtunties: true <br>
 }
-}
+}`
 }
 myProfile()
 
