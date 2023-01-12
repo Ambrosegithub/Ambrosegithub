@@ -1,3 +1,5 @@
+CONST myProfile = () => {
+return ${
 ### Hi there 👋
 I am Ambrose Isigba, a software developer. <br>
 
@@ -21,6 +23,9 @@ hasDegree: true, <br>
 highestEducationalProfile: 'HND in Environmental Health Technology', <br>
 isHeReadyForNewOppurtunties: true <br>
 }
+}
+}
+myProfile()
 
 # 💻Tech Stack
 <h2 align="center">
